@@ -1,0 +1,17 @@
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Infrastructure.deps.json
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Infrastructure.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Infrastructure.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Application.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Domain.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Application.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\bin\Debug\net8.0\ITUBumble.Domain.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.AssemblyInfo.cs
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumbl.D9D23BB2.Up2Date
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\refint\ITUBumble.Infrastructure.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ITUBumble.Infrastructure.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Infrastructure\obj\Debug\net8.0\ref\ITUBumble.Infrastructure.dll

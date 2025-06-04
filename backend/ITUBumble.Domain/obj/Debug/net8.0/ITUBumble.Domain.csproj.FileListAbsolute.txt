@@ -1,0 +1,11 @@
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\bin\Debug\net8.0\ITUBumble.Domain.deps.json
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\bin\Debug\net8.0\ITUBumble.Domain.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\bin\Debug\net8.0\ITUBumble.Domain.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.AssemblyInfoInputs.cache
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.AssemblyInfo.cs
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\refint\ITUBumble.Domain.dll
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ITUBumble.Domain.pdb
+C:\Users\Taylan\Desktop\itubumble\backend\ITUBumble.Domain\obj\Debug\net8.0\ref\ITUBumble.Domain.dll
